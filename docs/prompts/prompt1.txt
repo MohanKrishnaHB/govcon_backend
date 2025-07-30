@@ -1,0 +1,7 @@
+ContactType: ContactTitle(Unique)
+Group: GroupKey(Unique),GroupDescription
+Department: DepartmentTitle(Unique)
+GovernamentOffice: OfficeAddress,Department,Addressline1,Addressline2,Addressline3,Pincode,City,State
+PrimaryDesignation: PrimaryDesignation,Group,Department,ShortForm,Alias,DutiesandResponsibilities : (combination of department and PrimaryDesignation should be unique)
+Position: Position(Unique),PrimaryDesignation,SupervisorPosition,Office,DutiesandResponsibilities
+PositionContact: Position,ContactType,ContactValue : (combination of these 3 columns should be unique)
