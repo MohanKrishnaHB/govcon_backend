@@ -1,0 +1,81 @@
+Consider yourself as an excellent Project manager and a software Architect and help me create a plan to build below application.
+
+I want to create an application for citizens, executives(Governament employees) and legislatives(politicians)
+
+The app should have below features
+
+For Citizens
+- Citizens should be able to know who is the elected legislative member like MLA, corporator, etc..
+- Citizens should be able to know who all participated in an election and profile of each candidate in each election containing details like candidate's net worth, qualification etc.. (what all elction comittee priscribes)
+- Citizens should be able to know their location's police, health inspector, electric line man, etc, who all executives who can assist a citizen with a governament service
+- Citizens should be able to know who is the executive (lineman or police) or legislative member(MLA or corporator) in his current location and in his home location
+- Citizens should be able to know the contact details all above memebers (all type of contacts, email, phonenumbers)
+- Citizens should be able to know roles and responsibilities of an executive or legislative member
+- Citizens should be able to ask a question to any executive (lineman or police) or a legislative member(MLA or corporator)
+- Citizens should be able to vote on a question up or down
+- Citizens should be able to answer any question along with a proof like a video, a audio or a link to any site where proof can be found
+
+
+For executives, or legislatives called workers
+- workers should be able to see questions asked by citizens with all filters and sorting, etc...
+- workers should be able to answer a question not only his questions to any question
+
+
+Some screens to be in the application
+For Citizens
+1. Home
+- Home screen should contain a location picker at the top menu
+- Based on the location some common workers should be displayed, like: Legislatives like MLA, MP, corporator and executives like police, health inspector, lineman's cards has to be displayed
+- Each card is a clickable button which takes to respective profile screen
+- Some trending questions relavent to persons current location or home location should be displayed
+
+2. Search
+- This screen should take any input with filters and show results which is list of Legislatives or executives
+- For example: search string is "I have power cut at my place whome can I contact", result should be a small text saying "this query can be asked to a lineman" and display a card for current location's lineman and home location's lineman
+- For example: search string is "MLA of some city", result should show list of MLAs of that city
+- Each card is a clickable button which takes to respective profile screen
+
+3. Executive's Position Profile
+- This screen is to display details about a position or a role of an Executive
+- Take Lineman for example
+- The screen should display role name i.e., lineman
+- display his roles and responsibilities (when clicked it should show more)
+- Questions - based on the roles and responsibilities, display the common possible questions you can this role - for example (is there any planned electricity outages?) 
+- below it it shoud display his supervisor, Associate Engineer or whoever he reports to
+- below that it should display current location's lineman and home location's lineman and a small list of all relavent lineman
+
+4. Legislative's Position Profile
+- This screen is to display details about a position or a role of a Legislative
+- Take MLA for example
+- The screen should display position name i.e., MLA
+- display roles and responsibilities (when clicked it should show more)
+- Questions - based on the roles and responsibilities, display the common possible questions you can this role - for example (When is the plan to repair  the road?) 
+- below it it shoud display the constituencies in current state or city in relavent order from current location, home location to all
+
+5. Perticular Executive's Position Profile
+- This is screen is to display information about a perticular Executive Position
+- for example - lineman of my location i.e., lineman of kuvempunagar M-block
+- display perticular position name - Lineman of kuvempunagar M-block
+- display name of the person who holds that position
+- display contact details of that person, contacts can be of many types (Mobile, Landline, Email address, Office address)
+- 1 catch here is phone numbers are atatched to positions rather than the person who holds the position
+- display his supervisor card with role name and supervisor name
+- Questions Suggessions - based on the roles and responsibilities, display the common possible questions you can this role - for example (Is there planned Electricity outages in Kuvempunagar?)
+- Questions - display asked question and a button next to it to upvode or downvote a questions asked by another person
+- Ask question button, which takes to ask question screen
+
+6. Perticular Legislative's Position Profile
+- This is screen is to display information about a perticular Legislative Position
+- for example - MLA of my location i.e., MLA Krishnaraja constituency
+- display perticular position name - MLA Krishnaraja constituency
+- display name of the person who holds that position
+- display contact details of that person, contacts can be of many types (Mobile, Landline, Email address, Office address)
+- Questions Suggessions - based on the roles and responsibilities, display the common possible questions you can this role - for example (When is the plan to repair Ramakrishna nagar main road?)
+- Questions - display asked question and a button next to it to upvode or downvote a questions asked by another person
+- Ask question button, which takes to ask question screen
+- Display more details about the person who holds the position, like his office address, net worth, education qualification, number of criminal cases etc...
+
+I am planning to build this app using flutter for frontend and python django for backend
+I am planning to follow Agile method to get this app into market
+
+Provide me high level road map and all backlog items along with user story description and acceptance criteria.
