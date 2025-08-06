@@ -1,0 +1,17 @@
+<!-- templates/org_structure.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Organizational Structure</title>
+    <style>
+        ul { list-style-type: none; }
+        li { margin: 8px 0; }
+    </style>
+</head>
+<body>
+    <h1>Organizational Structure</h1>
+    {% for node in hierarchy %}
+        {% include "org_node.html" with node=node %}
+    {% endfor %}
+</body>
+</html>

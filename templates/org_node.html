@@ -1,0 +1,13 @@
+<!-- templates/org_node.html -->
+<ul>
+    <li>
+        <strong>{{ node.position.Position }}</strong>
+        {% if node.children %}
+            <ul>
+                {% for child in node.children %}
+                    {% include "org_node.html" with node=child %}
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </li>
+</ul>

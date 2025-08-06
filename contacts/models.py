@@ -34,7 +34,7 @@ class GovernamentOffice(models.Model):
     State = models.CharField(max_length=100)
 
     def __str__(self):
-        return (self.Addressline1 + self.Pincode)
+        return (self.Addressline1 + ' - ' + self.Pincode)
 
 
 class PrimaryDesignation(models.Model):
