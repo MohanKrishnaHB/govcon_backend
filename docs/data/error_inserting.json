@@ -1,0 +1,344 @@
+{
+    "status": "completed",
+    "failed_records": [
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481993762"
+                ],
+                "Email": [],
+                "AddressId": 38
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481993763"
+                ],
+                "Email": [],
+                "AddressId": 38
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 7,
+                "Designation": "RFO-Bilgi SF",
+                "MobileNumber": [
+                    "9481999123",
+                    "9481999123"
+                ],
+                "Email": [
+                    "rfosblg@gmail.com"
+                ],
+                "AddressId": 78
+            },
+            "error": "UNIQUE constraint failed: contacts_positioncontact.Position_id, contacts_positioncontact.ContactType_id, contacts_positioncontact.ContactValue"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit",
+                "MobileNumber": [
+                    "9481996956"
+                ],
+                "Email": [],
+                "AddressId": 163
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit",
+                "MobileNumber": [
+                    "9481996964"
+                ],
+                "Email": [],
+                "AddressId": 180
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481996986"
+                ],
+                "Email": [],
+                "AddressId": 180
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-ICT",
+                "MobileNumber": [
+                    "9481994228"
+                ],
+                "Email": [],
+                "AddressId": 187
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999247"
+                ],
+                "Email": [],
+                "AddressId": 289
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999248"
+                ],
+                "Email": [],
+                "AddressId": 289
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999274"
+                ],
+                "Email": [],
+                "AddressId": 289
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999275"
+                ],
+                "Email": [],
+                "AddressId": 289
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999247"
+                ],
+                "Email": [],
+                "AddressId": 290
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999248"
+                ],
+                "Email": [],
+                "AddressId": 290
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999274"
+                ],
+                "Email": [],
+                "AddressId": 290
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999275"
+                ],
+                "Email": [],
+                "AddressId": 290
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999247"
+                ],
+                "Email": [],
+                "AddressId": 291
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999248"
+                ],
+                "Email": [],
+                "AddressId": 291
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999274"
+                ],
+                "Email": [],
+                "AddressId": 291
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999275"
+                ],
+                "Email": [],
+                "AddressId": 291
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit",
+                "MobileNumber": [
+                    "9481999240"
+                ],
+                "Email": [],
+                "AddressId": 301
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Special Strike Force",
+                "MobileNumber": [
+                    "9481999241"
+                ],
+                "Email": [],
+                "AddressId": 301
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit",
+                "MobileNumber": [
+                    "9481999269"
+                ],
+                "Email": [],
+                "AddressId": 301
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999247"
+                ],
+                "Email": [],
+                "AddressId": 303
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999248"
+                ],
+                "Email": [],
+                "AddressId": 303
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 1",
+                "MobileNumber": [
+                    "9481999274"
+                ],
+                "Email": [],
+                "AddressId": 303
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 9,
+                "Designation": "BFO-Social Forestry Unit 2",
+                "MobileNumber": [
+                    "9481999275"
+                ],
+                "Email": [],
+                "AddressId": 303
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 8,
+                "Designation": "DRFO-ICT",
+                "MobileNumber": [
+                    "9481990618"
+                ],
+                "Email": [],
+                "AddressId": 356
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        },
+        {
+            "record": {
+                "PrimaryDesignationId": 10,
+                "Designation": "FW-Protection Duty",
+                "MobileNumber": [
+                    "9481993696"
+                ],
+                "Email": [],
+                "AddressId": 457
+            },
+            "error": "UNIQUE constraint failed: contacts_position.Position"
+        }
+    ]
+}

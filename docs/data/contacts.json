@@ -225,7 +225,7 @@
     "MobileNumber": [
       "0821-24080901"
     ],
-    "Address": "Mysuru",
+    "Address": "Aranya Bhavan, Ashokapuram, Mysore - 570008",
     "Email": [
       "fdptmysore@gmail.com"
     ]
@@ -24483,66 +24483,66 @@
     ]
   },
   {
-    "Designation": "Deputy Conservator of Forests",
+    "Designation": "DCF-Haliyala",
     "MobileNumber": [
       "08284-220128",
       "9968332270"
     ],
-    "Address": "Haliyala Division Office near Basaveshwar Circle, Dharawad Road Pincode-581329",
+    "Address": "Deputy Conservator of Forests, Haliyala Division Office near Basaveshwar Circle, Dharawad Road Pincode-581329",
     "Email": [
       "dcfhalyal@gmail.com"
     ]
   },
   {
-    "Designation": "Assistant conservator of Forests",
+    "Designation": "ACF-Dandeli",
     "MobileNumber": [
       "08284-233946",
       "9481994602"
     ],
-    "Address": "Dandeli Sub-Division office -581325",
+    "Address": "Assistant conservator of Forests, Dandeli Sub-Division office -581325",
     "Email": [
       "acfdandeli96@gmail.com"
     ]
   },
   {
-    "Designation": "Assistant conservator of Forests",
+    "Designation": "ACF-Ganeshgudi",
     "MobileNumber": [
       "08283-25789",
       "9481994603"
     ],
-    "Address": "Ganeshgudi Sub-Division office -581129",
+    "Address": "Assistant conservator of Forests, Ganeshgudi Sub-Division office -581129",
     "Email": [
       "acfjagalbet@gmail.com"
     ]
   },
   {
-    "Designation": "Assistant conservator of Forests",
+    "Designation": "ACF-GTD Dandeli",
     "MobileNumber": [
       "08284-231237"
     ],
-    "Address": "Govt. Timber Depot office -581325",
+    "Address": "Assistant conservator of Forests, Govt. Timber Depot office -581325",
     "Email": [
       "acfgtd.dandeli@gmail.com"
     ]
   },
   {
-    "Designation": "Assistant conservator of Forests",
+    "Designation": "ACF-Haliyala",
     "MobileNumber": [
       "08284-220128",
       "9481994604"
     ],
-    "Address": "Haliyala Sub-Division office near Basaveshwar Circle, Dharawada Road-581329",
+    "Address": "Assistant conservator of Forests, Haliyala Sub-Division office near Basaveshwar Circle, Dharawada Road-581329",
     "Email": [
       "acfhaliyala@gmail.com"
     ]
   },
   {
-    "Designation": "Range Forest Officer",
+    "Designation": "RFO-Bhagawati",
     "MobileNumber": [
       "08284-267818",
       "9481994805"
     ],
-    "Address": "Bhagawati -581363",
+    "Address": "Range Forest Office, Bhagawati -581363",
     "Email": [
       "bgtrifo97@gmail.com"
     ]
@@ -37030,16 +37030,14 @@
     ]
   },
   {
-    "Designation": "Joint Director, DCF- FTATI",
+    "Designation": "Joint Director, DCF- FTATI,Dharwada",
     "MobileNumber": [
       "0836 2486674",
       "9456548611",
       "8762271466"
     ],
-    "Address": "Dharwada",
-    "Email": [
-      "dcfgugdwd@yahoo.in"
-    ]
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
+    "Email": []
   },
   {
     "Designation": "DCF&TA to APCF- HRD, FTATI,Dharwada",
@@ -37047,8 +37045,8 @@
       "0836 2486675",
       "9481990302"
     ],
-    "Address": "Dharwada",
-    "Email": []
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
+    "Email": ["dcfgugdwd@yahoo.in"]
   },
   {
     "Designation": "ACF- FTATI, Dharwada",
@@ -37063,7 +37061,7 @@
     "MobileNumber": [
       "9481990317"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37071,7 +37069,7 @@
     "MobileNumber": [
       "9481990318"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37079,7 +37077,7 @@
     "MobileNumber": [
       "9481990340"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37087,7 +37085,7 @@
     "MobileNumber": [
       "9481990341"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37095,7 +37093,7 @@
     "MobileNumber": [
       "9481990342"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37103,7 +37101,7 @@
     "MobileNumber": [
       "9481990343"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37111,7 +37109,7 @@
     "MobileNumber": [
       "9481990344"
     ],
-    "Address": "Dharwada",
+    "Address": "KSFA, Gungaragatti, Mammigatti post, Dharwad - 580011",
     "Email": []
   },
   {
@@ -37131,7 +37129,7 @@
     "MobileNumber": [
       "94819903091"
     ],
-    "Address": "Kadugodi",
+    "Address": "Mahadevapura post, Kadugodi, Bangalore - 560067",
     "Email": []
   },
   {
@@ -37488,15 +37486,15 @@
       "08392 244969",
       "9611794684"
     ],
-    "Address": "",
-    "Email": []
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
+    "Email": ["cfwpsbly@gmail.com"]
   },
   {
     "Designation": "DCF- WP, Ballari",
     "MobileNumber": [
       "9481990209"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37504,7 +37502,7 @@
     "MobileNumber": [
       "9481990215"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37512,7 +37510,7 @@
     "MobileNumber": [
       "9481990224"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37528,7 +37526,7 @@
     "MobileNumber": [
       "9481990227"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37536,7 +37534,7 @@
     "MobileNumber": [
       "9481990228"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37544,7 +37542,7 @@
     "MobileNumber": [
       "9481990229"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37552,7 +37550,7 @@
     "MobileNumber": [
       "9481990231"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37560,7 +37558,7 @@
     "MobileNumber": [
       "9481990230"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
   },
   {
@@ -37568,16 +37566,8 @@
     "MobileNumber": [
       "9481990232"
     ],
-    "Address": "",
+    "Address": "ITI Opp. Radio Park, Ballari - 583102",
     "Email": []
-  },
-  {
-    "Designation": "",
-    "MobileNumber": [],
-    "Address": "",
-    "Email": [
-      "cfwpsbly@gmail.com"
-    ]
   },
   {
     "Designation": "CF - Working Plan Belagavi",
@@ -39407,15 +39397,15 @@
     "MobileNumber": [
       "9449690885"
     ],
-    "Address": "",
-    "Email": []
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
+    "Email": ["dcffmssmg@gmail.com"]
   },
   {
     "Designation": "RFO, Shivamogga FMS",
     "MobileNumber": [
       "9481996536"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39423,7 +39413,7 @@
     "MobileNumber": [
       "9481996610"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39431,7 +39421,7 @@
     "MobileNumber": [
       "9481996612"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39439,7 +39429,7 @@
     "MobileNumber": [
       "9481996613"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39447,7 +39437,7 @@
     "MobileNumber": [
       "9481996614"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39455,7 +39445,7 @@
     "MobileNumber": [
       "9481996615"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39463,7 +39453,7 @@
     "MobileNumber": [
       "9481996616"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39471,7 +39461,7 @@
     "MobileNumber": [
       "9481996617"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39479,7 +39469,7 @@
     "MobileNumber": [
       "9481996618"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39487,7 +39477,7 @@
     "MobileNumber": [
       "9481996619"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39495,7 +39485,7 @@
     "MobileNumber": [
       "9481996620"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39503,7 +39493,7 @@
     "MobileNumber": [
       "9481996621"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39511,7 +39501,7 @@
     "MobileNumber": [
       "9481996623"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39519,7 +39509,7 @@
     "MobileNumber": [
       "9481996680"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39527,7 +39517,7 @@
     "MobileNumber": [
       "9481996681"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39535,7 +39525,7 @@
     "MobileNumber": [
       "9481996682"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39543,7 +39533,7 @@
     "MobileNumber": [
       "9481996683"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39551,7 +39541,7 @@
     "MobileNumber": [
       "9481996684"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39559,7 +39549,7 @@
     "MobileNumber": [
       "9481996685"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39567,7 +39557,7 @@
     "MobileNumber": [
       "9481996686"
     ],
-    "Address": "",
+    "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
     "Email": []
   },
   {
@@ -39575,16 +39565,8 @@
     "MobileNumber": [
       "9481996687"
     ],
-    "Address": "",
-    "Email": []
-  },
-  {
-    "Designation": "",
-    "MobileNumber": [],
     "Address": "DC Compund, behind Government employees association building, Shivamogga-577201",
-    "Email": [
-      "dcffmssmg@gmail.com"
-    ]
+    "Email": []
   },
   {
     "Designation": "DCF, Sirsi, FMS",
@@ -39593,15 +39575,15 @@
       "9480041941",
       "9481996503"
     ],
-    "Address": "",
-    "Email": []
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
+    "Email": ["fmssirsiri123@gmail.com"]
   },
   {
     "Designation": "ACF, Sirsi, FMS",
     "MobileNumber": [
       "9481996513"
     ],
-    "Address": "",
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
     "Email": []
   },
   {
@@ -39617,7 +39599,7 @@
     "MobileNumber": [
       "9481996569"
     ],
-    "Address": "",
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
     "Email": []
   },
   {
@@ -39625,7 +39607,7 @@
     "MobileNumber": [
       "9481996570"
     ],
-    "Address": "",
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
     "Email": []
   },
   {
@@ -39633,7 +39615,7 @@
     "MobileNumber": [
       "9481996571"
     ],
-    "Address": "",
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
     "Email": []
   },
   {
@@ -39641,1588 +39623,7 @@
     "MobileNumber": [
       "9481996643"
     ],
-    "Address": "",
+    "Address": "Deputy Conservator of Forests, Forest Mobile Squad,Sirsi",
     "Email": []
-  },
-  {
-    "Designation": "",
-    "MobileNumber": [],
-    "Address": "",
-    "Email": [
-      "fmssirsiri123@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Secretary to Government (Forest) Forest, Ecology& Environment Department",
-    "MobileNumber": [
-      "080-22254434"
-    ],
-    "Address": "Room No. 441, 4th Floor, Gate No. 2, M. S. Building, Bengaluru-560001",
-    "Email": [
-      "secysforestfee@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Secretary to Government, (Ecology& Environment) Forest, Ecology& Environment Department",
-    "MobileNumber": [
-      "080-22032445"
-    ],
-    "Address": "Room No.709, 7th Floor, Gate No. 4, M. S. Building, Bengaluru-560001",
-    "Email": [
-      "secynv-fee@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Karnataka Forest Development Corporation Limited (KFDC)",
-    "MobileNumber": [
-      "080-23345348"
-    ],
-    "Address": "Vana Vikas, 1st Floor, 18th Cross, Malleshwaram, Bengaluru - 560 003",
-    "Email": [
-      "info@kfcdcl.com"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Karnataka Cashew Development Corporation, Mangaluru (KCDC)",
-    "MobileNumber": [
-      "0824-4630587"
-    ],
-    "Address": "Abbakkanagar, 1st Main, Kottara, Mangaluru-575 006. Phone No. 0824",
-    "Email": [
-      "kcdcl@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Divisional Manager, Karnataka Cashew Development Corporation, (KCDC)",
-    "MobileNumber": [
-      "08254-265236"
-    ],
-    "Address": "Karnataka Cashew Development Corporation, Kundapura(KCDC)",
-    "Email": [
-      "kcdcl@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Member Secretary, Zoo Authority of Karnataka, Mysuru (ZAK)",
-    "MobileNumber": [
-      "0821-2432881"
-    ],
-    "Address": "Zoo Main Road, Indira Nagar, Ittige Gudu, Mysuru, Karnataka 570101",
-    "Email": [
-      "admin@zoosofkarnataka.com"
-    ]
-  },
-  {
-    "Designation": "Chief Executive Officer, Karnataka Ecotourism Development Board",
-    "MobileNumber": [
-      "080-23448822"
-    ],
-    "Address": "2nd Floor, Vanavikasa, 18th Cross, Malleshwaram, Bengaluru - 560003",
-    "Email": [
-      "office@karnatakaecotourism.com"
-    ]
-  },
-  {
-    "Designation": "Member Secretary, Karnataka Bio-Diversity Board",
-    "MobileNumber": [
-      "080-23448783"
-    ],
-    "Address": "Ground Floor, Vanavikas, 18th Cross, Malleshwaram, Bengaluru-560003",
-    "Email": [
-      "kbb.ka.ms@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Chief Executive Officer, Karnataka State Medicinal Plants Authority (KAMPA)",
-    "MobileNumber": [
-      "080-23464089"
-    ],
-    "Address": "Room No. 409, 4th Floor, Vanavikas, Building, 18th Cross, Malleshwaram, Bengaluru-560003",
-    "Email": [
-      "ceo.kampa@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Jungle Lodges & Resorts (JLR)",
-    "MobileNumber": [
-      "080-40554044"
-    ],
-    "Address": "Jungle Lodges & Resorts Limited., Ground Floor, West Entrance, Khaniya Bhavan, Race Course Road, Bengaluru-560001, Karnataka",
-    "Email": [
-      "md@junglelodges.com"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Karnataka Mining Environment Restoration Corporation (KMERC)",
-    "MobileNumber": [
-      "080-22354737",
-      "080-22354738"
-    ],
-    "Address": "No. 49, 2nd floor, West wing, Khaniya Bhavana Bengaluru-560001",
-    "Email": [
-      "kmerc@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Mysuru Sales International Limited(MSIL)",
-    "MobileNumber": [
-      "080-22264021"
-    ],
-    "Address": "MSIL House, # 36, Cunningham Road, Bengaluru-560052",
-    "Email": [
-      "msil@msilonline.com"
-    ]
-  },
-  {
-    "Designation": "Project Director, Human Resource Management System (HRMS)",
-    "MobileNumber": [
-      "080-22028205"
-    ],
-    "Address": "5th floor, KPCL green Building, Palace Road, Bengaluru-560001",
-    "Email": [
-      "pdrhms2@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Government Tool & Training Centre (GTTC)",
-    "MobileNumber": [
-      "080-23152262"
-    ],
-    "Address": "Rajajinagar Industrial town, Bengaluru-560023",
-    "Email": [
-      "mdgttc@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Karnataka State Warehousing Corporation",
-    "MobileNumber": [
-      "080-23415679"
-    ],
-    "Address": "4th and 5th floor, Bheeja Bhavan, Ballari Road, Vinayaknagar, Hebbala, Bengaluru- 560024",
-    "Email": [
-      "kt285@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Commissioner, Watershed Development Department",
-    "MobileNumber": [
-      "080-22129601"
-    ],
-    "Address": "7th floor, KHB Annex., Cauvery Bhavan, KG Road, Bengaluru-09",
-    "Email": [
-      "comwdd@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Managing Director, Karnataka Soaps & Detergents Limited (KSDL)",
-    "MobileNumber": [
-      "080-22164800"
-    ],
-    "Address": "Karnataka Soaps & Detergents Limited, No 27, Industrial Suburb Bengaluru-Pune Highway, Rajajinagar, Bengaluru-560086",
-    "Email": [
-      "mysoresandalmd@gmail.com"
-    ]
-  },
-  {
-    "Designation": "PCCF & Member Secretary National Commission for Women",
-    "MobileNumber": [
-      "011-26942369",
-      "26944740"
-    ],
-    "Address": "Plot No. 21, FC33, Institutional Area, Jasola Vihar, New Delhi - 110025",
-    "Email": [
-      "ncw@nic.in"
-    ]
-  },
-  {
-    "Designation": "Director, Indra Gandhi National Forest Academy",
-    "MobileNumber": [
-      "+91(135) 2754647"
-    ],
-    "Address": "Post Officie New Forest, Dehradun - 248 006, Uttarakhand",
-    "Email": [
-      "director@ignfa.gov.in"
-    ]
-  },
-  {
-    "Designation": "APCCF& CMD Security Printing & minting corporation India Ltd., (SPMCIL)",
-    "MobileNumber": [
-      "011-23701225",
-      "011-43582200"
-    ],
-    "Address": "16th floor, Jawahar Vyapur Bhawan, Janapath, New Delhi",
-    "Email": [
-      "nfo@spmcil.com"
-    ]
-  },
-  {
-    "Designation": "CF & Private Secretary to Hon’ble Minister for Heavy Industries & Steel New Delhi",
-    "MobileNumber": [
-      "011-23063598",
-      "23061339"
-    ],
-    "Address": "Udyog Bhavan, New Delhi",
-    "Email": [
-      "Kt220@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Hon’ble Minister for Forest, Ecology & Environment Department",
-    "MobileNumber": [
-      "080-22386063",
-      "22034214"
-    ],
-    "Address": "Room No 36,37, Ground Floor, Vikas Soudha, Bengaluru",
-    "Email": [
-      "gokforestminister@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Personal Secretary to Hon’ble Minister for Forest, Ecology & Environment Department",
-    "MobileNumber": [
-      "080-22386063",
-      "22034214",
-      "22032509"
-    ],
-    "Address": "Room No 36,37, Ground Floor, Vikas Soudha",
-    "Email": [
-      "gokforestminister@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Additional Chief Secretary to Government, Forest Ecology & Environment",
-    "MobileNumber": [
-      "080-22256722"
-    ],
-    "Address": "Room No. 448, 4th Floor, Gate No. 2, M. S. Building, Bangalore-560001",
-    "Email": [
-      "prsfee@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Secretary (Forest)",
-    "MobileNumber": [
-      "080-22254434",
-      "22032570"
-    ],
-    "Address": "Room No. 441, 4th Floor, Gate No. 2, M. S. Building, Bangalore-560001",
-    "Email": [
-      "secyevforestfee@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Secretary (Ecology & Environment)",
-    "MobileNumber": [
-      "080-22032445"
-    ],
-    "Address": "R.No.709, 7th Floor, Gate No. 4, M. S. Building, Bangalore-1",
-    "Email": [
-      "secyev-fee@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Commissioner (Technical Cell)",
-    "MobileNumber": [
-      "080-22353961",
-      "080-22032206"
-    ],
-    "Address": "Room No. 710, 7th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "seacsec@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Joint Secretary -2 to Government",
-    "MobileNumber": [
-      "080-22032614"
-    ],
-    "Address": "Room No. 431, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "ds2forest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Deputy Secretary-1",
-    "MobileNumber": [
-      "080-22032324"
-    ],
-    "Address": "Room No. 440, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "jointsforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Deputy Secretary-IFA",
-    "MobileNumber": [
-      "080-22032106"
-    ],
-    "Address": "Room No. 431, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "ifadsforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Under Secretary - A Section",
-    "MobileNumber": [
-      "080-22032443"
-    ],
-    "Address": "Room No. 436, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "aranyasectiona@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Under Secretary - B Section",
-    "MobileNumber": [
-      "080-22032255"
-    ],
-    "Address": "Room No. 432, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "aranyasectiona@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Under Secretary C&D Section and R&I",
-    "MobileNumber": [
-      "080-22032205"
-    ],
-    "Address": "2nd Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "uscforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Under Secretary - Services D",
-    "MobileNumber": [
-      "080-22032349"
-    ],
-    "Address": "Room No. 437, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "uscforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Under Secretary (Legal cell)",
-    "MobileNumber": [
-      "080-22032618"
-    ],
-    "Address": "Room No. 628, 6th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "aranyasectiona@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Section Officer- Services",
-    "MobileNumber": [
-      "080-22032017"
-    ],
-    "Address": "Room No. 437, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": []
-  },
-  {
-    "Designation": "Section Officer - A Section",
-    "MobileNumber": [
-      "080-22032018"
-    ],
-    "Address": "Room No. 432, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "aranyasectiona@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Section Officer - B Section",
-    "MobileNumber": [
-      "080-22032023"
-    ],
-    "Address": "Room No. 431, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": []
-  },
-  {
-    "Designation": "Section Officer-C Section",
-    "MobileNumber": [
-      "080-22032022"
-    ],
-    "Address": "Room No. 437, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": []
-  },
-  {
-    "Designation": "Section Officer- D Section",
-    "MobileNumber": [
-      "080-22032024"
-    ],
-    "Address": "Room No. 437, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": []
-  },
-  {
-    "Designation": "IFA-A(Opinion)",
-    "MobileNumber": [
-      "080-22032699"
-    ],
-    "Address": "Room No. 410, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "soifaaforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "IFA-B (Budget)",
-    "MobileNumber": [
-      "080-22032466"
-    ],
-    "Address": "Room No. 410, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "soifaaforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Head of legal cell",
-    "MobileNumber": [
-      "080-22032879"
-    ],
-    "Address": "Room No. 410, 4th Floor, Gate No. 4, M. S. Building, Bangalore",
-    "Email": [
-      "soifaaforest@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF)",
-    "MobileNumber": [
-      "0863-2377500"
-    ],
-    "Address": "Principal Chief Conservator of Forests (HoFF), Andhra Pradesh Forest Department, Government of Andhra Pradesh, Tulja Guda Complex, building, M.J. Market, Hyderabad, (Andhra Pradesh) – 500 001",
-    "Email": [
-      "prlccf_hf_apfd@ap.gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, Head of Forest Force",
-    "MobileNumber": [
-      "0361-2333253"
-    ],
-    "Address": "Principal Chief Conservator of Forests, Head of Forest Force, Aranya Bhawan, Panjabari, Guwahati, 781037, Assam",
-    "Email": [
-      "hoff-assam@gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests Bihar forest department",
-    "MobileNumber": [
-      "0612-2220125",
-      "0612-2545364"
-    ],
-    "Address": "Principal Chief Conservator of Forests Bihar forest department, Vishweshwariah complex, Chowthi Manzil, Technology Bhavan, Beli road, Patna, (Bihar) - 800 015",
-    "Email": [
-      "pccbihar@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF)",
-    "MobileNumber": [
-      "0771-2512800"
-    ],
-    "Address": "Principal Chief Conservator of Forests (HoFF), Chhattisgarh Forest Department, Jai Raod, Aranya Bhawan Raipur (C.G.)- 492 007",
-    "Email": [
-      "cgpcf@gmail.com",
-      "cgpcf@sify.com"
-    ]
-  },
-  {
-    "Designation": "Add. Principal Chief Conservator of Forests",
-    "MobileNumber": [
-      "011-23370679",
-      "011-23378513"
-    ],
-    "Address": "Add. Principal Chief Conservator of Forests, Department of Forest and Wildlife, 2nd Floor, A-Block, Vikas Bhawan, I.P. Estate, New Delhi-110002",
-    "Email": [
-      "apccfngtcd@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [
-      "0832-2492521",
-      "0832-2224747"
-    ],
-    "Address": "Gomantak Maratha Samaj, Dayanand Smriti Building, Panaji-403001 Goa",
-    "Email": [
-      "pccf-fore.goa@gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [
-      "079-23254123",
-      "079-23229917"
-    ],
-    "Address": "Department of Forests, Aranya Bhavan, Block No. A/3, Near 'Ch' Circle, Opp. ST. Xaviers High School, Sector-10/A, Gandhi Nagar, Gujarat-382010",
-    "Email": [
-      "pccf-gj@nic.in",
-      "pccf-forest@gujarat.gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF)",
-    "MobileNumber": [
-      "0172-2563988",
-      "0172-2583158"
-    ],
-    "Address": "Department of E&F, Govt. of Haryana, Van Bhawan, Sector-6, Plot no. C-18, Panchkula – 134109 (Haryana)",
-    "Email": [
-      "pccf-hry@nic.in",
-      "papccf@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [
-      "0177-2624186",
-      "0177-2624192"
-    ],
-    "Address": "HoFF, Himachal Pradesh Forest Department, Government of Himachal Pradesh, Talland, Shimla-171001, (Himachal Pradesh)",
-    "Email": [
-      "pccf-hp@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [
-      "0191-4056478",
-      "0194-2483937",
-      "0191-2547276"
-    ],
-    "Address": "Forest Complex, Sheikh bagh, Lal chowk, Sri Nagar Pin code- 190001, J&K; Van Bhawan, Below Gumat, Jammu Tavi, Jammu-180001 J&K",
-    "Email": [
-      "papccfk@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forest & Head of the Forest Force (HoFF)",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of Forest & Head of the Forest Force (HoFF) Forests, Environment and Climate Change Department, Van Bhawan, Doranda, Ranchi, Jharkhand-834002",
-    "Email": [
-      "pccfjhkjharkhand@mail.gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF)",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of Forests (HoFF), Government of Karnataka Department of Forest, Aranya Bhawan, 4th Floor, 18th Cross, Malleshwaram, Bengaluru – 560003",
-    "Email": [
-      "pccfkar@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of Forests, Kerala Forest Department, Forests Headquarters, Vazuthacaud, Thiruvananthpuram, (Kerala) - 695 014",
-    "Email": [
-      "pccf.for@kerala.gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, Head of Forest Force",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of Forests, Head of Forest Force, Madhya Pradesh Forest Department, Satpuda Bhawan, 1st Floor, Bhopal-462006",
-    "Email": [
-      "pccfmp@mp.gov.in",
-      "pccfmp@rediffmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF)",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of Forests (HoFF) M. S. Nagpur, Maharashtra Forest Department, Government of Maharashtra, Van Bhawan, Ramgiri Road, Civil Lines, Nagpur-440 001",
-    "Email": [
-      "pccfnoffngp@maha.forest.gov.in",
-      "pccf-mh@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of forests",
-    "MobileNumber": [],
-    "Address": "Principal Chief Conservator of forests, Forest Head Office, Sanjenthong, Government of Manipur Imphal, (Manipur) – 795001",
-    "Email": [
-      "pccf-mn@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, Government of Meghalaya, Department of Forests, Sylvan House, Lower Laichumiere, Risa Colony, SHILLONG - 793 001",
-    "MobileNumber": [],
-    "Address": "Sylvan House, Lower Laichumiere, Risa Colony, SHILLONG - 793 001",
-    "Email": [
-      "am057@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, Govt. of Mizoram, Tuikhuatlang, Aizwal, Mizoram-796001",
-    "MobileNumber": [],
-    "Address": "Tuikhuatlang, Aizwal, Mizoram-796001",
-    "Email": [
-      "mizoramforest@yahoo.co.in",
-      "pcfcfiazwlmizoram@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of forests, HoFF, Department of Forest, Ecology, Environment and Wildlife, Government of Nagaland, Kohima, (Nagaland) - 797001",
-    "MobileNumber": [],
-    "Address": "Kohima, (Nagaland) - 797001",
-    "Email": [
-      "ng023@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, Government of Odisha, Department of Forests, Plot No. GD-2/12, Aranya Bhawan, Chandrashekharpur, Bhubaneshwar – 751 023",
-    "MobileNumber": [],
-    "Address": "Plot No. GD-2/12, Aranya Bhawan, Chandrashekharpur, Bhubaneshwar – 751 023",
-    "Email": [
-      "pcdodisha@gmail.com",
-      "or096@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests (HoFF), Department of Forests & Wildlife Preservation, Forest Complex, Sector - 68, Mohali-160062 Punjab",
-    "MobileNumber": [],
-    "Address": "Forest Complex, Sector - 68, Mohali-160062 Punjab",
-    "Email": [
-      "pccfpb@punjab.gov.in",
-      "pccfpunjab@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests, HoFF, Rajasthan Forest Department, Government of Rajasthan, Van Bhawan, Vaniki Path, Jaipur, (Rajasthan) – 302 005",
-    "MobileNumber": [],
-    "Address": "Van Bhawan, Vaniki Path, Jaipur, (Rajasthan) – 302 005",
-    "Email": [
-      "pccf.rj.forest@rajasthan.gov.in",
-      "pccfrj@rediffmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests-cum Secretary",
-    "MobileNumber": [],
-    "Address": "Department of Forest, Environment and Wildlife Management, Government of Sikkim, Forest Secretariat Deorali - 737102 Gangtok, East Sikkim",
-    "Email": [
-      "am057@ifs.nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests & HoFF",
-    "MobileNumber": [],
-    "Address": "Department of Forests, Government of Tamil Nadu , No. 1, Jeenis Road, Panagal Maligai Building, Saidapet, Chennai – 600015",
-    "Email": [
-      "pccf-tn@nic.in",
-      "pccfhod@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests & Hoff",
-    "MobileNumber": [],
-    "Address": "Telangana Forest Department, Government of Telangana, Aranya Bhawan, Saifabad, Hyderabad – 500 001",
-    "Email": [
-      "prlccf_hf_tsfd@telangana.gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Tripura, Aranya Bhawan, Pandit Nehru Complex, PO-Kunjaban, Agartala-799006",
-    "Email": [
-      "pccftripura@gmail.com",
-      "hofft.td-tr@gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Department of Environment Forests, Government of Uttarakhand, 87, Rajpur Road, Dehradun-248001, Uttarakhand",
-    "Email": [
-      "pccfuk@gmail.com",
-      "pccf-forest-uk@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Govt. of Uttar Pradesh, 17, Rana Pratap Marg, Lucknow, (Uttar Pradesh) – 226 001",
-    "Email": [
-      "pccf-up@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of forests (HoFF)",
-    "MobileNumber": [],
-    "Address": "Department of Forests, Government of West Bengal Aranya Bhawan, Block No. LA-10A, Sector III, Salt lake City, Kolkata-700098",
-    "Email": [
-      "pccfwb@vsnl.net",
-      "pccfhwb@nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Andaman & Nicobar Islands, Van Sadan, Haddo, P.O., Por Blair - 744102",
-    "Email": [
-      "pccfani@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Principal Chief Conservator of Forests and Principal Secretary(E&F)",
-    "MobileNumber": [],
-    "Address": "Government of Arunachal Pradesh, ITANAGAR - 791 111.",
-    "Email": [
-      "pccf-arn@nic.in"
-    ]
-  },
-  {
-    "Designation": "Chief Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Chandigarh Administration, Sector-9, Chandigarh- 160 001",
-    "Email": [
-      "cf.chandigarh@gmail.com"
-    ]
-  },
-  {
-    "Designation": "CCF",
-    "MobileNumber": [],
-    "Address": "U.T. of Daman & Diu and Dadra & Nagar Haveli, Fort Area Secretariat, Silvasa- 396 230",
-    "Email": []
-  },
-  {
-    "Designation": "Directorate of Forest and Wildlife",
-    "MobileNumber": [],
-    "Address": "Mullaigaam Forest Campus, Cuddalore Main Road, Puducherry - 605 001.",
-    "Email": [
-      "cf.pon@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Conservator of Forests",
-    "MobileNumber": [],
-    "Address": "Lakshadweep Administration, Department of Environment and Forest, Kavaratti Island- 682555",
-    "Email": [
-      "lak-dcf@nic.in"
-    ]
-  },
-  {
-    "Designation": "Hon’ble Minister for Environment, Forest and Climate Change",
-    "MobileNumber": [
-      "011-20819190",
-      "011-20819187",
-      "011-23014243"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi -110 003 INDIA",
-    "Email": [
-      "mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Hon’ble Minister of State for Environment, Forest and Climate Change",
-    "MobileNumber": [
-      "011-20819418",
-      "011-20819421",
-      "011-23794971"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi - 110 003 INDIA",
-    "Email": [
-      "mos.kvs@gov.in"
-    ]
-  },
-  {
-    "Designation": "Secretary Ministry of Environment, Forest and Climate Change",
-    "MobileNumber": [
-      "011-20819308",
-      "011-20819408"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi - 110 003 IINDIA",
-    "Email": [
-      "secy-moef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Director General of Forest & Special Secretary MOEF & CC",
-    "MobileNumber": [
-      "91-11-20819209",
-      "91-11-20819239",
-      "91-11-20819195"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi - 110 003 IINDIA",
-    "Email": [
-      "dgfindia@nic.in"
-    ]
-  },
-  {
-    "Designation": "Director General of Forest Wildlife",
-    "MobileNumber": [
-      "+91-11-20819327"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi - 110003 INDIA",
-    "Email": [
-      "digwlmefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Additional Director General of Forest - FC",
-    "MobileNumber": [
-      "+91-11-20819414"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "adfgc-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Additional Secretary & Financial Advisor",
-    "MobileNumber": [
-      "+91-11-20819316"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "asfa-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Senior Economic Advisor",
-    "MobileNumber": [
-      "+91-11-20819231"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "lal.sanglur@nic.in"
-    ]
-  },
-  {
-    "Designation": "Joint Secretary - E-Governance & IT",
-    "MobileNumber": [
-      "+91-11-20819220"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "sahnk@gov.in"
-    ]
-  },
-  {
-    "Designation": "Joint Secretary - Library & Administration",
-    "MobileNumber": [
-      "+91-11-20819232"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "satyajit.mishra@nic.in"
-    ]
-  },
-  {
-    "Designation": "Joint Secretary - Control of Pollution (CP)",
-    "MobileNumber": [
-      "+91-11-20819236"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "mishra.vp@gov.in"
-    ]
-  },
-  {
-    "Designation": "Inspector General of Forest FC & Director of Project Tiger and Project Elephant",
-    "MobileNumber": [
-      "+91-11-20819233",
-      "+91-11-20819224"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "ramesh.pandey@nic.in"
-    ]
-  },
-  {
-    "Designation": "Economic Advisor Climate Finance",
-    "MobileNumber": [
-      "+91-11-20819197"
-    ],
-    "Address": "Indira Paryavaran Bhawan Jorbagh Road, New Delhi – 110003 INDIA",
-    "Email": [
-      "rajasree.r@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests",
-    "MobileNumber": [
-      "+91-80-25537184",
-      "+91-80-25537180"
-    ],
-    "Address": "Integrated Regional Office, Kendriya Sadan, 4th Floor, E&F Wings, 17th Main Road, Koramangala II Block, Bangalore – 560034 Bengaluru",
-    "Email": [
-      "rosz.bng-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-755-2466525",
-      "+91-755-2302432"
-    ],
-    "Address": "Integrated Regional Office, E-5, Kendriya Parayavaran Bhawan, E-5 Areara Colony, Link Road-3, Ravishankar Nagar, Bhopal – 462016",
-    "Email": [
-      "tgo35.ifs@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-674-2301213",
-      "+91-674-2302432"
-    ],
-    "Address": "Integrated Regional Office, A/3, Chandersekhapur, Bhubaneswar – 751023",
-    "Email": [
-      "roez.bsr-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-44-28222325",
-      "+91-44-28225236"
-    ],
-    "Address": "Integrated Regional Office, 1st and IInd Floor, Handloom Export Promotion Council, 34, Cathedral Garden Road, Nungambakkam, Chennai – 600006",
-    "Email": [
-      "ro.moefccc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-172-2638135",
-      "+91-172-2638061",
-      "+91-172-2664589",
-      "+91-172-2624994",
-      "+91-172-2638995"
-    ],
-    "Address": "Integrated Regional Office, Bays No. 24-25, Sector 31 A, Dakshin Marg, Chandigarh – 160030",
-    "Email": [
-      "ronz.chd-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-135-2713009"
-    ],
-    "Address": "Integrated Regional Office, 25, Subhash Road, Dehradun – 248001",
-    "Email": [
-      "moef.ddn@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-522-2326696",
-      "+91-522-2324025"
-    ],
-    "Address": "Integrated Regional Office, Kendriya Bhawan, 5th Floor, Sector “H”, Aliganj, Lucknow – 226020",
-    "Email": [
-      "rocz.lko-mef@nic.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-712-2531318",
-      "+91-712-2531319"
-    ],
-    "Address": "Integrated Regional Office, Ground Floor, East Wing, New Secretariat Building, Civil Lines, Nagpur-440001.",
-    "Email": [
-      "apccfcentral-ngp-mef@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Inspector General of Forests, (I/C)",
-    "MobileNumber": [
-      "+91-9453601717"
-    ],
-    "Address": "Integrated Regional Office, Jaipur, A-209&218, Aranya Bhawan, Mahatma Gandhi Road, Jhalana Institutional Area, Jaipur – 304002, Rajasthan",
-    "Email": [
-      "iro.jaipur-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-651-2410002",
-      "+91-651-2410007"
-    ],
-    "Address": "Integrated Regional Office, 2nd Floor, Headquarter-Jharkhand State Housing Board, Harmu Chowk, Ranchi, Jharkhand – 834002",
-    "Email": [
-      "ro.ranchi-mef@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-364-2537609",
-      "+91-364-7340",
-      "+91-364-7395",
-      "+91-364-7278"
-    ],
-    "Address": "Integrated Regional Office, Law-U-Sib, Lumbatgnen, Near MTC Workshop, Shillong",
-    "Email": [
-      "moefro.shillong@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-361-2330984"
-    ],
-    "Address": "Integrated Regional Office, Guwahati, 4th Floor, Housefed Building, G.S. Road Rukminigaon, Guwahati – 781022",
-    "Email": [
-      "iro.guwahatimefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-8275045979"
-    ],
-    "Address": "Integrated Regional Office, Aranya Bhawan, North Block, Sector-19 Naya Raipur, Atal Nagar, Chhattisgarh – 492002",
-    "Email": [
-      "iro.raipurmefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Inspector General of Forests",
-    "MobileNumber": [
-      "+91-866-2419787",
-      "+91-866-2419788"
-    ],
-    "Address": "Integrated Regional Office, Vijayawada Green House, Gopalareddy Road, Vijayawada – 520010, Andhra Pradesh",
-    "Email": [
-      "iro.vijayawada-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Inspector General of Forests",
-    "MobileNumber": [
-      "+91-33-23355713",
-      "+91-33-23357938"
-    ],
-    "Address": "Integrated Regional Office, Kolkata IB – 198, Sector-III, Salt Lake City, Kolkata – 700106",
-    "Email": [
-      "iro.kolkata-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-9952430695"
-    ],
-    "Address": "Integrated Regional Office, Gandhi Nagar, A-Wing – 407 & 409, Aranya Bhawan, Near CH-3 Circle, Sector-10A, Gandhi Nagar – 382010",
-    "Email": [
-      "iro.gandhinr-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Deputy Director General of Forests (C)",
-    "MobileNumber": [
-      "+91-9415786586"
-    ],
-    "Address": "Integrated Regional Office, Hyderabad 3rd Floor, Room No. 309, Aranya Bhawan, Opp. RBI, Safiabadi – 500004, Hyderabad, Telangana",
-    "Email": [
-      "iro.hyderabad-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Inspector General of Forests",
-    "MobileNumber": [
-      "+91-177-2652541",
-      "+91-177-2657517"
-    ],
-    "Address": "Integrated Regional Office, Shimla C.G.O. Complex, Shivalik Block, Longwood, Shimla – 171001, Himachal Pradesh",
-    "Email": [
-      "iro.shimla-mefcc@gov.in"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(33) 22485634",
-      "+91(33) 22449222",
-      "+91(33) 23215631(F)"
-    ],
-    "Address": "CGO Complex, 3rd MSO Building Block F, 5th-6th Floor, DF Block, Sector I, Salt Lake City, Kolkata- 700064",
-    "Email": [
-      "bsi@envis.nic.in",
-      "www.envisbsi.org"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(0135) 2757326",
-      "+91(0135) 2750125(F)"
-    ],
-    "Address": "PO New forest, Dehradun 284006, Uttarakhand",
-    "Email": [
-      "dfe-dehradun@gov.in",
-      "www.auditdfe.weblin.co.in"
-    ]
-  },
-  {
-    "Designation": "Principal DFE, MoEF",
-    "MobileNumber": [
-      "+91(354) 2331302"
-    ],
-    "Address": "P.O. St. Mary's Hills, Kurseong - 734 220, West Bengal",
-    "Email": [
-      "efrkurseong@gmail.com"
-    ]
-  },
-  {
-    "Designation": "EMPRI",
-    "MobileNumber": [
-      "080-26490747 – 201"
-    ],
-    "Address": "Circle Arch, Vinayak Nagar, Sahyadri Layout, J. P. Nagar, Bengaluru, Karnataka 560078",
-    "Email": [
-      "dgempri@karnataka.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director General, MoEF",
-    "MobileNumber": [
-      "+91(135) 2756139",
-      "+91(135) 2755037",
-      "+91(135) 2754507",
-      "+91(135) 2756139(F)"
-    ],
-    "Address": "Kaulagarh Road, P.O. IPE Dehradun-248195, Uttarakhand",
-    "Email": [
-      "dgfsi@fsi.nic.in",
-      "www.fsiorg.net"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(135) 2754647",
-      "+91(135) 2757314(F)"
-    ],
-    "Address": "P.O. New Forest, Dehradun - 248 006, Uttarakhand",
-    "Email": [
-      "director@ignfa.gov.in",
-      "www.ignfa.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(522) 2205842(303)",
-      "+91(522) 2205839",
-      "+91(522) 2205847(F)"
-    ],
-    "Address": "Rana Pratap Marg, Lucknow-226001",
-    "Email": [
-      "dgfsi@fsi.nic.in",
-      "www.nbi.res.in"
-    ]
-  },
-  {
-    "Designation": "Ministry of Ayush",
-    "MobileNumber": [
-      "+91(11) 23721840"
-    ],
-    "Address": "Ministry of Ayush and Family Welfare, Chandralok Building 36, Janpath, New Delhi - 110001",
-    "Email": [
-      "infor-nmpb@nic.in",
-      "www.nmpb.nic.in"
-    ]
-  },
-  {
-    "Designation": "Principal",
-    "MobileNumber": [
-      "+91(0135) 2754648",
-      "+91(0135) 2754575(F)"
-    ],
-    "Address": "P.O. New Forest, Dehradun 248 006 Uttarakhand",
-    "Email": [
-      "casfos.dd-mef@gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal",
-    "MobileNumber": [
-      "+91(422) 2450313/0605",
-      "+91(422) 2450439(F)"
-    ],
-    "Address": "Box No. 1130, R.S. Puram, Post Coimbatore - 641 002, Tamil Nadu",
-    "Email": [
-      "casfos-coimbatore@gov.in"
-    ]
-  },
-  {
-    "Designation": "Principal",
-    "MobileNumber": [
-      "+91(361) 2896246"
-    ],
-    "Address": "G.S. Road, Burnihat - 793 101 Assam.",
-    "Email": [
-      "casfos-burnihat@gov.in"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "+91(33) 24003925",
-      "+91(33) 24006893(F)"
-    ],
-    "Address": "Prani Vigyan Bhawan, M.Block, New Alipur, Kolkata - 700053, West Bengal",
-    "Email": [
-      "director@zsi.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "+91(291) 2722549"
-    ],
-    "Address": "P.O.Krishi Upaj Mandi, Basni, New Pali Road Jodhpur - 342 005",
-    "Email": [
-      "director@afri.res.in",
-      "www.afri.icfre.org"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "+91(29)740584"
-    ],
-    "Address": "Cazro Road, Jodhpur-342003, Rajasthan",
-    "Email": [
-      "director@cazri.icar.gov.in",
-      "www.casrires.in"
-    ]
-  },
-  {
-    "Designation": "Director General",
-    "MobileNumber": [
-      "+91(11) 23710472",
-      "+91(11) 23710618(F)"
-    ],
-    "Address": "Anusandhan bhavan, 2 Rafi Marg, New Delhi 110001",
-    "Email": [
-      "dgcsir@csir.res.in",
-      "www.crir.res.in"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "+91(135) 2755277",
-      "+91(135) 2757326(F)"
-    ],
-    "Address": "P.O. New Forest, Dehra Dun - 248 006",
-    "Email": [
-      "fridu.edu.in",
-      "www.fridu.edu.in"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "(O) +91(5962) 241014/240150/241154/241150/231507(F)"
-    ],
-    "Address": "MoEF Kosi-Katarmal, Almora, Pin: 263 643, Uttarakhand",
-    "Email": [
-      "psdir@gbpihed.nic.in",
-      "www.gbpihed.nic.in"
-    ]
-  },
-  {
-    "Designation": "Director,ICFRE",
-    "MobileNumber": [
-      "+91(177) 2626778",
-      "+91(177) 2627804(F)"
-    ],
-    "Address": "Conifer Campus, Panthaghati Shimla - 171 009(HP) India",
-    "Email": [
-      "hfri@hotdak.net",
-      "www.hfri.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Indian Council of Agricultural Research,",
-    "MobileNumber": [
-      "+91-1123384773",
-      "+91-112338470706(F)"
-    ],
-    "Address": "Krishi Bhavan, Dr.Rajendra Prasad Road, New Delhi 110 001",
-    "Email": [
-      "dg.icar.nic.in",
-      "www.icar.org.in"
-    ]
-  },
-  {
-    "Designation": "Indian Council of Forestry Research & Education,",
-    "MobileNumber": [
-      "+91(135) 2759382",
-      "+91(135) 2750297/98(F)"
-    ],
-    "Address": "P.O. New Forest, Dehra Dun - 248 006",
-    "Email": [
-      "dg@icfre.org",
-      "www.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Institute of Forest Productivity ICFRE",
-    "MobileNumber": [
-      "+91(651) 2948505",
-      "+91(651) 2526006(F)"
-    ],
-    "Address": "Ranchi Gumla National Highway-Laglutwala, Ranchi-835303",
-    "Email": [
-      "ifp.icfre.gov.in",
-      "www.ifp.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Institute of Forest Genetics and Tree Breeding (IFGTB)",
-    "MobileNumber": [
-      "+91(422) 2484101"
-    ],
-    "Address": "P.B.No.1061, R.S. Puram. P.O.coimbatore-641002",
-    "Email": [
-      "director@ifgtb.res.in",
-      "www.ifgtb.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(80) 28394341",
-      "+91(80) 28394231",
-      "+91(80) 28396361(F)"
-    ],
-    "Address": "Post Box No. 2273 Tumkur Road, Bangalore - 560 022",
-    "Email": [
-      "director@ipirti.gov.in",
-      "www.indiascienceandtechnology.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director,ICFRE",
-    "MobileNumber": [
-      "+91(80) 080-2334173"
-    ],
-    "Address": "18th Cross, Malleswaram Bangalore - 560 003",
-    "Email": [
-      "iwst.icfre.gov.in",
-      "dir-wst@icfre.or"
-    ]
-  },
-  {
-    "Designation": "Director, MoEF",
-    "MobileNumber": [
-      "+91(755) 2775716",
-      "+91(755) 2773799",
-      "+91(755) 2772878(F)"
-    ],
-    "Address": "Nehru Nagar, Post Box No. 357 Bhopal - 462 003",
-    "Email": [
-      "cao@iifm.ac.in",
-      "www.iifm.ac.in"
-    ]
-  },
-  {
-    "Designation": "Director",
-    "MobileNumber": [
-      "080-23600757",
-      "080-23600683(F)"
-    ],
-    "Address": "Malleswaram 18th cross, Bengaluru- 560003",
-    "Email": [
-      "regr@admin.iisc.emet.in",
-      "www.iisc.ac.in"
-    ]
-  },
-  {
-    "Designation": "Director, ICFRE",
-    "MobileNumber": [
-      "+91(376) 2350273/74"
-    ],
-    "Address": "Deovan, P O Box No 136, A T Road(East), Jorhat, Assam",
-    "Email": [
-      "dir-rfri@icfre.org",
-      "www.rfri.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director, Salim Ali Centre for Ornithology and Natural History",
-    "MobileNumber": [
-      "+91(422) 657101/105",
-      "+91(422) 657086",
-      "+91(422) 657096",
-      "+91(422) 657088(F)"
-    ],
-    "Address": "Analkatty P O Coimbatore-641108",
-    "Email": [
-      "salimali@sacon.in"
-    ]
-  },
-  {
-    "Designation": "Director, Tropical Forest Research Institute",
-    "MobileNumber": [
-      "+91(0761) 2840483"
-    ],
-    "Address": "ICFRE, Sec 7 Gandhinagar 382007, Mandla Road, Jabalpur(M.P.) - 482 021",
-    "Email": [
-      "dir-tfri@icfre.org",
-      "www.tfri.icfre.gov.in"
-    ]
-  },
-  {
-    "Designation": "Director, Wildlife Institute of India, MoEF, Uttarakhand",
-    "MobileNumber": [
-      "+91(135) 2640114",
-      "+91(135) 2640117(F)"
-    ],
-    "Address": "Wildlife Institute Road, Chandrabani Dehradun-Uttarakhand-248001",
-    "Email": [
-      "dwii@wii.gov.in",
-      "www.wii.gov.in"
-    ]
-  },
-  {
-    "Designation": "Balabroie Guest House, Bengaluru",
-    "MobileNumber": [
-      "080-22251211",
-      "22251212",
-      "22251213"
-    ],
-    "Address": "Bengaluru",
-    "Email": [
-      "kumspl.officer.com"
-    ]
-  },
-  {
-    "Designation": "Cauveri Guest House, Bengaluru",
-    "MobileNumber": [
-      "080-22253149"
-    ],
-    "Address": "Bengaluru",
-    "Email": []
-  },
-  {
-    "Designation": "Gandhi Nilaya Guest House, Nandi Hills",
-    "MobileNumber": [
-      "08156-250318"
-    ],
-    "Address": "Nandi Hills",
-    "Email": []
-  },
-  {
-    "Designation": "Karnataka Government Guest House, Ooty",
-    "MobileNumber": [
-      "0423-2443689"
-    ],
-    "Address": "Ooty",
-    "Email": []
-  },
-  {
-    "Designation": "Kumara Krupa Guest House, Bengaluru",
-    "MobileNumber": [
-      "080-22252410"
-    ],
-    "Address": "Bengaluru",
-    "Email": []
-  },
-  {
-    "Designation": "Mysore Government Guest House",
-    "MobileNumber": [
-      "0821-2520157"
-    ],
-    "Address": "",
-    "Email": [
-      "governmentmysore@gmail.com"
-    ]
-  },
-  {
-    "Designation": "CAVUERY- Karnataka Bhavan I 10",
-    "MobileNumber": [
-      "011-24103702",
-      "011-24103703"
-    ],
-    "Address": "Kautilya Marg, Chanakyapuri, New Delhi, Delhi 110021",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "SRIVASATHI- Karnataka Bhavan II",
-    "MobileNumber": [
-      "011-26117624",
-      "011-26115515"
-    ],
-    "Address": "No-6, Sardar Patel Marg, Chanakyapuri, New Delhi-110021",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "BHIMA- Karnataka Bhavan III",
-    "MobileNumber": [
-      "011-262050750",
-      "011-26251756"
-    ],
-    "Address": "Andrews Ganj, Khel Gaon Road, New Delhi, Delhi 110049",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Resident Commissioner Office",
-    "MobileNumber": [
-      "011-26889814"
-    ],
-    "Address": "",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Spl.Resident Commissioner",
-    "MobileNumber": [
-      "011-26116697"
-    ],
-    "Address": "",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Addl.Resident Commissioner",
-    "MobileNumber": [
-      "011-26889188"
-    ],
-    "Address": "",
-    "Email": [
-      "rckarnatakanewdelhi@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Deputy Resident Commissioner",
-    "MobileNumber": [
-      "011-26116643"
-    ],
-    "Address": "",
-    "Email": [
-      "dyrckb@gmail.com"
-    ]
-  },
-  {
-    "Designation": "Manager- Transport and Protocol",
-    "MobileNumber": [
-      "011-24103702 ext 1112",
-      "011-24104957"
-    ],
-    "Address": "",
-    "Email": [
-      "protocolkb@gmail.com"
-    ]
   }
 ]
